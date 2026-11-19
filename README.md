@@ -37,7 +37,7 @@ https://github.com/user-attachments/assets/b682334c-75a8-4723-ad31-a5a899e429c5
 
 ## 制作与署名
 
-- **皮肤设计、制作与主要测试**　[@rinsawa](https://github.com/rinsawa)（M500 MIKU）。本项目免费，无广告及付费功能。
+- **皮肤设计、制作与主要测试**　[@rinsawa](https://github.com/rinsawa)。本项目免费，无广告及付费功能。
 - **测试协助**　感谢 [@Guasss605](https://github.com/Guasss605) 参与测试，帮助解决界面布局问题。
 - 角色「初音未来／初音ミク」版权归 Crypton Future Media, INC. 所有。[Piapro 角色使用指引](https://piapro.jp/license/character_guideline)
 - 播放按钮人物原画：みらつ／밋다다（@miratsu169）。按钮图在原画基础上用 AI 辅助临摹并微调姿势。[画师的 X 主页](https://x.com/miratsu169)
