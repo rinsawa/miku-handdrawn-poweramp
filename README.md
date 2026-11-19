@@ -14,7 +14,7 @@ https://github.com/user-attachments/assets/b682334c-75a8-4723-ad31-a5a899e429c5
 
 ## 界面预览
 
-竖屏播放器、曲库和均衡器。截图取自开发期间的演示，界面以安装版本为准。
+竖屏播放器、曲库和均衡器。截图取自开发期间的演示，实际界面以所安装的皮肤版本为准。
 
 <img src="player.png" alt="竖屏播放器，唱片封面下方是歌名标签纸和五个初音按钮" width="30%"> <img src="library.png" alt="薄荷色曲库和手绘分类图标" width="27%"> <img src="equalizer.png" alt="均衡器上的手绘推子与旋钮" width="27%">
 
