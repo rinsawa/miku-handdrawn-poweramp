@@ -14,7 +14,7 @@ https://github.com/user-attachments/assets/acda0aec-f4c5-4d22-a2d0-dfd0dc520ff9
 
 ## Screenshots
 
-Portrait player, library and equalizer. These screenshots were taken during development. The installed version may look slightly different.
+Portrait player, library and equalizer. These screenshots were taken during development. The actual appearance depends on the installed skin version.
 
 <img src="player.png" alt="Portrait player with the album cover, paper label and five Miku buttons" width="30%"> <img src="library.png" alt="Library categories with hand-drawn icons" width="27%"> <img src="equalizer.png" alt="Equalizer with hand-drawn sliders and knobs" width="27%">
 
@@ -31,16 +31,16 @@ Portrait player, library and equalizer. These screenshots were taken during deve
 ## Known issues
 
 - Enabling extra buttons on the playback screen can cause buttons to shift out of place or overlap other controls.
-- On some uncommon screen aspect ratios, sections of the playback screen may appear unevenly spaced or out of proportion.
+- On some screen aspect ratios, controls on the playback screen may be unevenly spaced; for example, the song title label may sit too low.
 
 ## Credits
 
-- **Skin design, development and lead testing**　[@rinsawa](https://github.com/rinsawa) (M500 MIKU). The skin is free, with no ads or paid features.
+- **Skin design, development and lead testing**　[@rinsawa](https://github.com/rinsawa). The skin is free, with no ads or paid features.
 - **Testing**　Thanks to [@Guasss605](https://github.com/Guasss605) for testing the skin and helping resolve interface layout issues.
 - Hatsune Miku is a character of Crypton Future Media, INC. [Piapro character usage guidelines](https://piapro.jp/license/character_guideline)
 - Original character illustrations for the playback buttons by みらつ／밋다다 (@miratsu169). The illustrations were redrawn with AI assistance, with small changes to the poses to fit the buttons. [Artist on X](https://x.com/miratsu169)
 - Album covers and track information in the screenshots belong to their respective rights holders.
 
-**Rights and removal requests**　We have asked the illustrator for permission to distribute the button artwork and are awaiting a reply. Rights holders can contact the maintainer through this repository’s Issues to request removal or a correction.
+**Rights and removal requests**　We have asked the illustrator for permission to distribute the button artwork and are awaiting a reply. If you are a rights holder and would like content removed or corrected, please contact me at the email address below.
 
 **Contact me**　[lzhe120400@gmail.com](mailto:lzhe120400@gmail.com)
