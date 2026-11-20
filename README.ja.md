@@ -23,10 +23,10 @@ https://github.com/user-attachments/assets/50e85f08-bc37-40c7-8f55-6b9f102600f7
 ## インストール方法
 
 1. Android 端末に Poweramp 音楽プレーヤーをインストールします。
-2. このリポジトリの **Releases** を開き、**v1.16.72 → Assets** から [**Miku-Handdrawn-1.16.72.apk**](https://github.com/rinsawa/miku-handdrawn-poweramp/releases/download/v1.16.72/Miku-Handdrawn-1.16.72.apk) をダウンロードしてインストールします。
+2. [最新の正式リリース](https://github.com/rinsawa/miku-handdrawn-poweramp/releases/latest)を開き、**Assets** から拡張子が `.apk` のスキンをダウンロードしてインストールします。
 3. Poweramp の **設定 → 外観（Look and Feel）→ スキン（Skin）** で **初音ミクの手描きスキン** を選びます。
 
-**スキンの署名認証**　このスキンの署名は、現時点では Poweramp の認証を受けていません。署名を確認するバージョンでは、初めて選択してから約48時間で未認証スキンの選択が自動的に解除されます。 [Poweramp 公式ドキュメント](https://github.com/maxmpz/powerampapi/blob/master/poweramp_skin_sample/readme.md#skin-verification)
+**スキンの署名認証**　Poweramp でスキンが未認証と表示される場合、署名認証に対応するバージョンでは、初めて選択してから約48時間後にスキンの選択が自動的に解除されます。 [Poweramp 公式ドキュメント](https://github.com/maxmpz/powerampapi/blob/master/poweramp_skin_sample/readme.md#skin-verification)
 
 ## 既知の問題
 

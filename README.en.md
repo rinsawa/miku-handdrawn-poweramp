@@ -23,10 +23,10 @@ Portrait player, library and equalizer. These screenshots were taken during deve
 ## Installation
 
 1. Install Poweramp Music Player on your Android device.
-2. Open this repository’s **Releases** page. Under **v1.16.72 → Assets**, download and install [**Miku-Handdrawn-1.16.72.apk**](https://github.com/rinsawa/miku-handdrawn-poweramp/releases/download/v1.16.72/Miku-Handdrawn-1.16.72.apk).
+2. Open the [latest release](https://github.com/rinsawa/miku-handdrawn-poweramp/releases/latest). Under **Assets**, download and install the skin file ending in `.apk`.
 3. In Poweramp, open **Settings → Look and Feel → Skin** and select **Hand-drawn Miku**.
 
-**Skin verification**　Poweramp has yet to verify this skin’s signing certificate. Versions of the player that check skin signatures automatically deselect an unverified skin about 48 hours after it is first selected. [Poweramp documentation](https://github.com/maxmpz/powerampapi/blob/master/poweramp_skin_sample/readme.md#skin-verification)
+**Skin verification**　If Poweramp marks the skin as unverified, player versions that check skin signatures automatically deselect it about 48 hours after you first select it. [Poweramp documentation](https://github.com/maxmpz/powerampapi/blob/master/poweramp_skin_sample/readme.md#skin-verification)
 
 ## Known issues
 

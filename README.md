@@ -25,10 +25,10 @@ https://github.com/user-attachments/assets/b682334c-75a8-4723-ad31-a5a899e429c5
 ## 下载安装
 
 1. 在 Android 手机上安装 Poweramp 音乐播放器。
-2. 打开本仓库的 **Releases（发行版）**，在 **v1.16.72 → Assets（附件）** 下载并安装 [**Miku-Handdrawn-1.16.72.apk**](https://github.com/rinsawa/miku-handdrawn-poweramp/releases/download/v1.16.72/Miku-Handdrawn-1.16.72.apk)。
+2. 打开[最新正式版](https://github.com/rinsawa/miku-handdrawn-poweramp/releases/latest)，在 **Assets（附件）** 中下载并安装以 `.apk` 结尾的皮肤安装包。
 3. 打开 Poweramp，在 **设置 → 外观与感受 → 皮肤** 选择 **初音手绘**（Hand-drawn Miku）。
 
-**验证状态**　本版本尚未获 Poweramp 签名认证。支持皮肤验证的播放器版本会在首次选中未认证皮肤约 48 小时后自动取消选中。[Poweramp 官方说明](https://github.com/maxmpz/powerampapi/blob/master/poweramp_skin_sample/readme.md#skin-verification)
+**皮肤验证**　如果 Poweramp 将这款皮肤标为「未验证」，支持皮肤验证的播放器版本会在首次选中约 48 小时后自动取消选中。 [Poweramp 官方说明](https://github.com/maxmpz/powerampapi/blob/master/poweramp_skin_sample/readme.md#skin-verification)
 
 ## 已知问题
 
